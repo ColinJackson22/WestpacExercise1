@@ -8,7 +8,7 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features="src/test/resources/features/KiwiSaverRetirementCalculator/FieldLevelHelp.feature",
+        features="src/test/resources/features/KiwiSaverRetirementCalculator/",
         tags={"~@wip"},
         format = {  "pretty",
                     "html:target/cucumber-report/",
@@ -16,6 +16,6 @@ import org.junit.runner.RunWith;
                     "rerun:target/cucumber-report/rerun.txt" },
         glue = {"stepdefs"})
 
-public class Run_FieldLevelHelp {
+public class Run_KiwiSaverRetirementCalculator {
 }
 
