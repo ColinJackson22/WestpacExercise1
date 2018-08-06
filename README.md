@@ -1,5 +1,6 @@
 # WestpacExercise
 Westpac Automation Testing assessment
+Exercise 1 was chosen
 
 Project Setup notes
 ===================
