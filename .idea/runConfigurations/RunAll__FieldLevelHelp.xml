@@ -8,7 +8,7 @@
     <option name="MAIN_CLASS_NAME" value="Run_Test" />
     <option name="METHOD_NAME" value="" />
     <option name="TEST_OBJECT" value="class" />
-    <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -Dcucumber.options=&quot;src/test/resources/features/FieldLevelHelp.feature -t ~@wip&quot; -Dlog.level=INFO" />
+    <option name="VM_PARAMETERS" value="-ea -Dbrowser=chrome -Dcucumber.options=&quot;src/test/resources/features/KiwiSaverRetirementCalculator/FieldLevelHelp.feature -t ~@wip&quot; -Dlog.level=INFO" />
     <option name="PARAMETERS" value="" />
     <option name="WORKING_DIRECTORY" value="file://%MODULE_WORKING_DIR%" />
     <option name="ENV_VARIABLES" />
